@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/last-commit/abusharaf/covid19-case?style=for-the-badge&logo=github)
 ![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
 [![ ](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)](https://twitter.com/MSharafH)
-[![Gitter](https://img.shields.io/gitter/room/abusharaf/covid19-case?logo=gitter&style=for-the-badge)](https://gitter.im/covid19-case/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://img.shields.io/gitter/room/abusharaf/covid19-case?logo=gitter&style=for-the-badge&color=green)](https://gitter.im/covid19-case/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 ## Introduction
