@@ -5,6 +5,7 @@
 ![](https://img.shields.io/github/last-commit/abusharaf/covid19-case?style=for-the-badge&logo=github)
 ![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
 [![ ](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)](https://twitter.com/MSharafH)
+[![Gitter](https://badges.gitter.im/covid19-case/community.svg)](https://gitter.im/covid19-case/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Introduction
 
@@ -13,15 +14,20 @@ The aim of this research is to focus on the preventive side of the **COVID 19** 
 This project will carry on even after **COVID 19** case is resolved *(hoepfully soon)*, since this will help people fighting any future strong viral infection through the use of this toolkit and activate a healther and better lifestyle for generations yet to come...
 
 
-#### Goal => Motivation
-What does this project do?
-Why is this project useful?
-How do I get started?
+## Goal
+-   **Motivation** to bring positive impact
+-   **Participate** in optimizing and enhancing World Healthcare ecosystem through use of collected data & insights
+-   **Build** prevention model that will help in *transforming* current lifestyle
+-   **Depend** on emerging technologies for better understanding the trends of data 
+
 Where can I get more help, if I need it?
+
+## Data Privacy & Policy
+
 
 ## Code Style
 
-## Screen Shots
+c
 
 ## Tech / Framework used
 
@@ -31,18 +37,14 @@ Based on [Open Addresses Open Data](http://results.openaddresses.io/) & [Pelias]
 +  Geocoder services
 +  Reverse Geocoder services
 
-## How to Install
 
-## How to Use
-
-## API Reference
-
-## Cloud Deployment
-
-## You may want to check also this react PWA leafletjs. map
-leafletjs. map with Ract | EmberJS | Stencil | Ionic | meteor [basedonrequiredscope]
-
-## Contribution / Feedback
+## Coming Later On
+-   Modules / Components
+-   Contribution Guides
+-   Cloud Deployment
+-   API Reference
+-   How to Use & Install related modules
+-   Feedback
 
 ## Attributions
 
