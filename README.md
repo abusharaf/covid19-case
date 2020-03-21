@@ -1,4 +1,4 @@
-# 🌍 **COVID 19 Case**📍
+# 🦠 **COVID 19 Case**
 geodecodo is a microservice { 📦} built on top of open source project **Pelias** for providing geocoding and reverse geocoding translation services.
 
 
