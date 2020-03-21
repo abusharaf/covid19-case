@@ -1,7 +1,4 @@
 # 🦠 **COVID 19 Case**
-The aim of this research is to focus on the preventive side of the **COVID 19** outbreak, not only for helping the people in fighting this virus, but also to seize the oppoutunity for shifting the model of care to be more preventive and transform people mindset and maybe transform the food instrustry into a better shape that will help in building a much stronger immunity.
-
-This project will carry on even after **COVID 19** case is resolved *(hoepfully soon)*, since this will help people fighting any future strong viral infection through the use of this toolkit and activate a healther and better lifestyle for generations yet to come...
 
 ##  Status
 ![](https://img.shields.io/static/v1?label=status&message=under%20development&color=blueviolet&style=for-the-badge&logo=javascript)
@@ -10,11 +7,11 @@ This project will carry on even after **COVID 19** case is resolved *(hoepfully 
 [![ ](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)](https://twitter.com/MSharafH)
 
 ## Introduction
-#### The problem first
-This idea came to our mind when we tried to find an API ready-made system that can provide us with a geo-decoder service for human-readable addresses, but all of them were based on paid subscription (could cost a lot of money for highly used applications), therefore we've started to look for a geographical map provider service/application that can provide this information for us as an open-source project in order to build up the API layer as a service wrapper accordingly.
 
-#### Solution
- **Pelias** was found as an open-source project for map and geocoder provider.
+The aim of this research is to focus on the preventive side of the **COVID 19** outbreak, not only for helping the people in fighting this virus, but also to seize the oppoutunity for shifting the model of care to be more preventive and transform people mindset and maybe transform the food instrustry into a better shape that will help in building a much stronger immunity.
+
+This project will carry on even after **COVID 19** case is resolved *(hoepfully soon)*, since this will help people fighting any future strong viral infection through the use of this toolkit and activate a healther and better lifestyle for generations yet to come...
+
 
 #### Goal => Motivation
 What does this project do?
