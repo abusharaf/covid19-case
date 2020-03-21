@@ -7,7 +7,7 @@ This project will carry on even after **COVID 19** case is resolved *(hoepfully 
 ![](https://img.shields.io/static/v1?label=status&message=under%20development&color=blueviolet&style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/github/last-commit/abusharaf/covid19-case?style=for-the-badge&logo=github)
 ![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
-![https://twitter.com/MSharafH](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)
+[![ ](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)]https://twitter.com/MSharafH()
 
 ## Introduction
 #### The problem first
