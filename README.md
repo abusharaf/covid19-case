@@ -3,9 +3,8 @@ The aim of this research is to focus on the preventive side of the **COVID 19** 
 
 This project will carry on even after **COVID 19** case is resolved *(hoepfully soon)*, since this will help people fighting any future strong viral infection through the use of this toolkit and activate a healther and better lifestyle for generations yet to come...
 
-## Build Status
-Still Under development
-
+##  Status
+![](https://img.shields.io/github/last-commit/abusharaf/covid19-case)
 
 ## Introduction
 #### The problem first
