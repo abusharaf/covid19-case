@@ -15,31 +15,27 @@ The aim of this research is to focus on the preventive side of the **COVID 19** 
 This project will carry on even after **COVID 19** case is resolved *(hoepfully soon)*, since this will help people fighting any future strong viral infection through the use of this toolkit and activate a healther and better lifestyle for generations yet to come...
 
 
-## Goal
+## Goals
 -   **Motivation** to bring positive impact
 -   **Participate** in optimizing and enhancing World Healthcare ecosystem through use of collected data & insights
 -   **Build** prevention model that will help in *transforming* current lifestyle
--   **Depend** on emerging technologies for better understanding the trends of data 
-
-Where can I get more help, if I need it?
+-   **Depend** on emerging technologies for better understanding collected data and find potential pathways to drive the change...
+-   **Fight Back** pandemic
 
 ## Data Privacy & Policy
+More to come in this important section, as data privacy and security is an important and vital topic that will be handled legally with experts in this domain.
 
+## Tracks / Subthemes
+Three main tracks will follow for the COVID-19 case response:-
++  Preventive Model for people
++  Predection Model for viral infection
++  Community Cooperation - Digital Assistant
 
 ## Code Style
-
-c
-
-## Tech / Framework used
-
-## Features
-Based on [Open Addresses Open Data](http://results.openaddresses.io/) & [Pelias](https://pelias.io/)
-+  Heart beat service
-+  Geocoder services
-+  Reverse Geocoder services
-
+Coding is like opening your mind into the public, no way everyone will understand you, so let's try to keep our code meaningful and easy to understand, very simple article to follow as a [Good Coding Style](http://www.inf.unibz.it/~nutt/Teaching/DSA1819/DSAAssignments/good-coding-style.html)
 
 ## Coming Later On
+-   Tech / Framework used
 -   Modules / Components
 -   Contribution Guides
 -   Cloud Deployment
