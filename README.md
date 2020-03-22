@@ -6,6 +6,7 @@
 ![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
 [![ ](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)](https://twitter.com/MSharafH)
 [![Gitter](https://img.shields.io/gitter/room/abusharaf/covid19-case?logo=gitter&style=for-the-badge&color=green)](https://gitter.im/covid19-case/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![ ](https://img.shields.io/badge/Design%20Thinking-On%20Trello-blue?style=for-the-badge&logo=trello)](https://trello.com/b/o7nigPUk)
 
 
 ## Introduction
@@ -63,5 +64,5 @@ Apache License Version 2.0, for more information please check the [LICENSE](LICE
 🧱
 ======
 <p align="center">
-<b><></b> with ❤️ from Middleast
+<b><></b> with ❤️ from 🌍
 </p>
